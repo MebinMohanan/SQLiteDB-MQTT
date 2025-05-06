@@ -1,0 +1,889 @@
+2025-05-06 14:02:12,827 - INFO - Press Ctrl+C to stop
+2025-05-06 14:02:12,835 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:02:12,836 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.12, "timestamp": "2025-05-06T14:02:12.835265"}
+2025-05-06 14:02:14,838 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:02:14,838 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.68, "timestamp": "2025-05-06T14:02:14.838256"}
+2025-05-06 14:02:16,851 - INFO - [3] Published to topic: test/custom/topic
+2025-05-06 14:02:16,851 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.82, "timestamp": "2025-05-06T14:02:16.851391"}
+2025-05-06 14:02:18,854 - INFO - [4] Published to topic: test/custom/topic
+2025-05-06 14:02:18,854 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.33, "timestamp": "2025-05-06T14:02:18.854612"}
+2025-05-06 14:02:20,865 - INFO - [5] Published to topic: test/custom/topic
+2025-05-06 14:02:20,865 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.49, "timestamp": "2025-05-06T14:02:20.864927"}
+2025-05-06 14:02:22,879 - INFO - [6] Published to topic: test/custom/topic
+2025-05-06 14:02:22,879 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.57, "timestamp": "2025-05-06T14:02:22.879531"}
+2025-05-06 14:02:24,893 - INFO - [7] Published to topic: test/custom/topic
+2025-05-06 14:02:24,893 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.11, "timestamp": "2025-05-06T14:02:24.893195"}
+2025-05-06 14:02:26,909 - INFO - [8] Published to topic: test/custom/topic
+2025-05-06 14:02:26,910 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.27, "timestamp": "2025-05-06T14:02:26.909421"}
+2025-05-06 14:02:28,924 - INFO - [9] Published to topic: test/custom/topic
+2025-05-06 14:02:28,924 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.36, "timestamp": "2025-05-06T14:02:28.923752"}
+2025-05-06 14:02:30,938 - INFO - [10] Published to topic: test/custom/topic
+2025-05-06 14:02:30,941 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.42, "timestamp": "2025-05-06T14:02:30.938931"}
+2025-05-06 14:02:31,097 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:02:32,466 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:02:32,936 - INFO - Stopping MQTT producer...
+2025-05-06 14:02:32,967 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:03:53,268 - INFO - Press Ctrl+C to stop
+2025-05-06 14:03:53,268 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:03:53,270 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.11, "timestamp": "2025-05-06T14:03:53.268239"}
+2025-05-06 14:03:55,272 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:03:55,272 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.7, "timestamp": "2025-05-06T14:03:55.272713"}
+2025-05-06 14:03:56,916 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:03:57,281 - INFO - Stopping MQTT producer...
+2025-05-06 14:03:57,307 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:03:57,307 - INFO - MQTT producer stopped
+2025-05-06 14:04:19,846 - INFO - Press Ctrl+C to stop
+2025-05-06 14:04:19,851 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:04:19,851 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.78, "timestamp": "2025-05-06T14:04:19.850363"}
+2025-05-06 14:04:19,851 - INFO - Message 1 published successfully
+2025-05-06 14:04:21,654 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:04:21,864 - INFO - Stopping MQTT producer...
+2025-05-06 14:04:21,880 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:04:21,880 - INFO - MQTT producer stopped
+2025-05-06 14:04:36,113 - INFO - Connected to MQTT broker at localhost:1883
+2025-05-06 14:04:36,114 - INFO - Press Ctrl+C to stop
+2025-05-06 14:04:36,114 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:04:36,114 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.62, "timestamp": "2025-05-06T14:04:36.114048"}
+2025-05-06 14:04:36,114 - INFO - Message 1 published successfully
+2025-05-06 14:04:37,936 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:04:38,128 - INFO - Stopping MQTT producer...
+2025-05-06 14:04:39,137 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:04:39,137 - INFO - MQTT producer stopped
+2025-05-06 14:04:54,543 - INFO - MQTT producer started. Publishing to localhost:1883
+2025-05-06 14:04:54,543 - INFO - Press Ctrl+C to stop
+2025-05-06 14:04:54,543 - INFO - Connected to MQTT broker at localhost:1883
+2025-05-06 14:04:54,543 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:04:54,543 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.85, "timestamp": "2025-05-06T14:04:54.543068"}
+2025-05-06 14:04:54,543 - INFO - Message 1 published successfully
+2025-05-06 14:04:56,546 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:04:56,546 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.84, "timestamp": "2025-05-06T14:04:56.546248"}
+2025-05-06 14:04:56,546 - INFO - Message 2 published successfully
+2025-05-06 14:04:58,548 - INFO - [3] Published to topic: test/custom/topic
+2025-05-06 14:04:58,548 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.44, "timestamp": "2025-05-06T14:04:58.548908"}
+2025-05-06 14:04:58,548 - INFO - Message 3 published successfully
+2025-05-06 14:05:00,562 - INFO - [4] Published to topic: test/custom/topic
+2025-05-06 14:05:00,562 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.36, "timestamp": "2025-05-06T14:05:00.562789"}
+2025-05-06 14:05:00,562 - INFO - Message 4 published successfully
+2025-05-06 14:05:02,567 - INFO - [5] Published to topic: test/custom/topic
+2025-05-06 14:05:02,567 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.44, "timestamp": "2025-05-06T14:05:02.567892"}
+2025-05-06 14:05:02,567 - INFO - Message 5 published successfully
+2025-05-06 14:05:04,581 - INFO - [6] Published to topic: test/custom/topic
+2025-05-06 14:05:04,581 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.49, "timestamp": "2025-05-06T14:05:04.581184"}
+2025-05-06 14:05:04,581 - INFO - Message 6 published successfully
+2025-05-06 14:05:06,587 - INFO - Message 7 published successfully
+2025-05-06 14:05:06,587 - INFO - [7] Published to topic: test/custom/topic
+2025-05-06 14:05:06,587 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.77, "timestamp": "2025-05-06T14:05:06.587719"}
+2025-05-06 14:05:08,589 - INFO - [8] Published to topic: test/custom/topic
+2025-05-06 14:05:08,589 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.93, "timestamp": "2025-05-06T14:05:08.589333"}
+2025-05-06 14:05:08,589 - INFO - Message 8 published successfully
+2025-05-06 14:05:10,604 - INFO - [9] Published to topic: test/custom/topic
+2025-05-06 14:05:10,604 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.72, "timestamp": "2025-05-06T14:05:10.604862"}
+2025-05-06 14:05:10,604 - INFO - Message 9 published successfully
+2025-05-06 14:05:12,620 - INFO - [10] Published to topic: test/custom/topic
+2025-05-06 14:05:12,620 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.93, "timestamp": "2025-05-06T14:05:12.620159"}
+2025-05-06 14:05:12,620 - INFO - Message 10 published successfully
+2025-05-06 14:05:14,620 - INFO - [11] Published to topic: test/custom/topic
+2025-05-06 14:05:14,620 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.39, "timestamp": "2025-05-06T14:05:14.620815"}
+2025-05-06 14:05:14,621 - INFO - Message 11 published successfully
+2025-05-06 14:05:16,629 - INFO - [12] Published to topic: test/custom/topic
+2025-05-06 14:05:16,629 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.2, "timestamp": "2025-05-06T14:05:16.629829"}
+2025-05-06 14:05:16,629 - INFO - Message 12 published successfully
+2025-05-06 14:05:18,633 - INFO - [13] Published to topic: test/custom/topic
+2025-05-06 14:05:18,633 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.63, "timestamp": "2025-05-06T14:05:18.632184"}
+2025-05-06 14:05:18,633 - INFO - Message 13 published successfully
+2025-05-06 14:05:20,640 - INFO - [14] Published to topic: test/custom/topic
+2025-05-06 14:05:20,640 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.05, "timestamp": "2025-05-06T14:05:20.640286"}
+2025-05-06 14:05:20,640 - INFO - Message 14 published successfully
+2025-05-06 14:05:22,648 - INFO - [15] Published to topic: test/custom/topic
+2025-05-06 14:05:22,648 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.46, "timestamp": "2025-05-06T14:05:22.648001"}
+2025-05-06 14:05:22,648 - INFO - Message 15 published successfully
+2025-05-06 14:05:24,650 - INFO - [16] Published to topic: test/custom/topic
+2025-05-06 14:05:24,650 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.52, "timestamp": "2025-05-06T14:05:24.650521"}
+2025-05-06 14:05:24,650 - INFO - Message 16 published successfully
+2025-05-06 14:05:26,654 - INFO - [17] Published to topic: test/custom/topic
+2025-05-06 14:05:26,654 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.66, "timestamp": "2025-05-06T14:05:26.654892"}
+2025-05-06 14:05:26,654 - INFO - Message 17 published successfully
+2025-05-06 14:05:28,670 - INFO - [18] Published to topic: test/custom/topic
+2025-05-06 14:05:28,671 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.15, "timestamp": "2025-05-06T14:05:28.670836"}
+2025-05-06 14:05:28,672 - INFO - Message 18 published successfully
+2025-05-06 14:05:30,672 - INFO - [19] Published to topic: test/custom/topic
+2025-05-06 14:05:30,672 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.21, "timestamp": "2025-05-06T14:05:30.672042"}
+2025-05-06 14:05:30,672 - INFO - Message 19 published successfully
+2025-05-06 14:05:32,685 - INFO - [20] Published to topic: test/custom/topic
+2025-05-06 14:05:32,685 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.14, "timestamp": "2025-05-06T14:05:32.685887"}
+2025-05-06 14:05:32,686 - INFO - Message 20 published successfully
+2025-05-06 14:05:34,699 - INFO - [21] Published to topic: test/custom/topic
+2025-05-06 14:05:34,699 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.59, "timestamp": "2025-05-06T14:05:34.699397"}
+2025-05-06 14:05:34,699 - INFO - Message 21 published successfully
+2025-05-06 14:05:36,715 - INFO - [22] Published to topic: test/custom/topic
+2025-05-06 14:05:36,715 - INFO - Message 22 published successfully
+2025-05-06 14:05:36,715 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.05, "timestamp": "2025-05-06T14:05:36.715656"}
+2025-05-06 14:05:38,729 - INFO - [23] Published to topic: test/custom/topic
+2025-05-06 14:05:38,729 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.64, "timestamp": "2025-05-06T14:05:38.729299"}
+2025-05-06 14:05:38,729 - INFO - Message 23 published successfully
+2025-05-06 14:05:40,745 - INFO - [24] Published to topic: test/custom/topic
+2025-05-06 14:05:40,745 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.05, "timestamp": "2025-05-06T14:05:40.745008"}
+2025-05-06 14:05:40,745 - INFO - Message 24 published successfully
+2025-05-06 14:05:42,759 - INFO - [25] Published to topic: test/custom/topic
+2025-05-06 14:05:42,760 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.85, "timestamp": "2025-05-06T14:05:42.759960"}
+2025-05-06 14:05:42,760 - INFO - Message 25 published successfully
+2025-05-06 14:05:44,775 - INFO - [26] Published to topic: test/custom/topic
+2025-05-06 14:05:44,775 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.02, "timestamp": "2025-05-06T14:05:44.774333"}
+2025-05-06 14:05:44,775 - INFO - Message 26 published successfully
+2025-05-06 14:05:46,788 - INFO - [27] Published to topic: test/custom/topic
+2025-05-06 14:05:46,788 - INFO - Message 27 published successfully
+2025-05-06 14:05:46,788 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.83, "timestamp": "2025-05-06T14:05:46.788249"}
+2025-05-06 14:05:48,789 - INFO - [28] Published to topic: test/custom/topic
+2025-05-06 14:05:48,789 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.91, "timestamp": "2025-05-06T14:05:48.789759"}
+2025-05-06 14:05:48,789 - INFO - Message 28 published successfully
+2025-05-06 14:05:50,798 - INFO - [29] Published to topic: test/custom/topic
+2025-05-06 14:05:50,798 - INFO - Message 29 published successfully
+2025-05-06 14:05:50,798 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.64, "timestamp": "2025-05-06T14:05:50.797514"}
+2025-05-06 14:05:52,801 - INFO - [30] Published to topic: test/custom/topic
+2025-05-06 14:05:52,801 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.36, "timestamp": "2025-05-06T14:05:52.800075"}
+2025-05-06 14:05:52,801 - INFO - Message 30 published successfully
+2025-05-06 14:05:54,814 - INFO - [31] Published to topic: test/custom/topic
+2025-05-06 14:05:54,814 - INFO - Message 31 published successfully
+2025-05-06 14:05:54,815 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.92, "timestamp": "2025-05-06T14:05:54.814561"}
+2025-05-06 14:05:56,828 - INFO - [32] Published to topic: test/custom/topic
+2025-05-06 14:05:56,828 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.35, "timestamp": "2025-05-06T14:05:56.828820"}
+2025-05-06 14:05:56,828 - INFO - Message 32 published successfully
+2025-05-06 14:05:58,844 - INFO - [33] Published to topic: test/custom/topic
+2025-05-06 14:05:58,844 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.01, "timestamp": "2025-05-06T14:05:58.844140"}
+2025-05-06 14:05:58,844 - INFO - Message 33 published successfully
+2025-05-06 14:06:00,858 - INFO - [34] Published to topic: test/custom/topic
+2025-05-06 14:06:00,858 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.74, "timestamp": "2025-05-06T14:06:00.858091"}
+2025-05-06 14:06:00,859 - INFO - Message 34 published successfully
+2025-05-06 14:06:02,875 - INFO - [35] Published to topic: test/custom/topic
+2025-05-06 14:06:02,875 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.8, "timestamp": "2025-05-06T14:06:02.874568"}
+2025-05-06 14:06:02,875 - INFO - Message 35 published successfully
+2025-05-06 14:06:04,890 - INFO - [36] Published to topic: test/custom/topic
+2025-05-06 14:06:04,891 - INFO - Message 36 published successfully
+2025-05-06 14:06:04,891 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.0, "timestamp": "2025-05-06T14:06:04.889493"}
+2025-05-06 14:06:06,893 - INFO - [37] Published to topic: test/custom/topic
+2025-05-06 14:06:06,893 - INFO - Message 37 published successfully
+2025-05-06 14:06:06,893 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.71, "timestamp": "2025-05-06T14:06:06.893474"}
+2025-05-06 14:06:08,897 - INFO - [38] Published to topic: test/custom/topic
+2025-05-06 14:06:08,897 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.53, "timestamp": "2025-05-06T14:06:08.897890"}
+2025-05-06 14:06:08,897 - INFO - Message 38 published successfully
+2025-05-06 14:06:10,901 - INFO - [39] Published to topic: test/custom/topic
+2025-05-06 14:06:10,901 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.47, "timestamp": "2025-05-06T14:06:10.901252"}
+2025-05-06 14:06:10,901 - INFO - Message 39 published successfully
+2025-05-06 14:06:12,916 - INFO - Message 40 published successfully
+2025-05-06 14:06:12,916 - INFO - [40] Published to topic: test/custom/topic
+2025-05-06 14:06:12,916 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.72, "timestamp": "2025-05-06T14:06:12.916336"}
+2025-05-06 14:06:14,373 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:06:14,920 - INFO - Stopping MQTT producer...
+2025-05-06 14:06:14,936 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:06:14,936 - INFO - MQTT producer stopped
+2025-05-06 14:06:16,462 - INFO - ***************  MQTT Producer for Windows  ***************
+2025-05-06 14:06:16,472 - INFO - MQTT producer started. Publishing to localhost:1883
+2025-05-06 14:06:16,472 - INFO - Press Ctrl+C to stop
+2025-05-06 14:06:16,472 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:06:16,472 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.24, "timestamp": "2025-05-06T14:06:16.472724"}
+2025-05-06 14:06:16,472 - INFO - Connected to MQTT broker at localhost:1883
+2025-05-06 14:06:16,472 - INFO - Message 1 published successfully
+2025-05-06 14:06:18,472 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:06:18,472 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.26, "timestamp": "2025-05-06T14:06:18.472786"}
+2025-05-06 14:06:18,472 - INFO - Message 2 published successfully
+2025-05-06 14:06:20,475 - INFO - [3] Published to topic: test/custom/topic
+2025-05-06 14:06:20,476 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.78, "timestamp": "2025-05-06T14:06:20.475122"}
+2025-05-06 14:06:20,476 - INFO - Message 3 published successfully
+2025-05-06 14:06:22,484 - INFO - [4] Published to topic: test/custom/topic
+2025-05-06 14:06:22,484 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.59, "timestamp": "2025-05-06T14:06:22.484853"}
+2025-05-06 14:06:22,484 - INFO - Message 4 published successfully
+2025-05-06 14:06:24,487 - INFO - [5] Published to topic: test/custom/topic
+2025-05-06 14:06:24,487 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.29, "timestamp": "2025-05-06T14:06:24.487292"}
+2025-05-06 14:06:24,487 - INFO - Message 5 published successfully
+2025-05-06 14:06:26,497 - INFO - [6] Published to topic: test/custom/topic
+2025-05-06 14:06:26,497 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.37, "timestamp": "2025-05-06T14:06:26.497506"}
+2025-05-06 14:06:26,497 - INFO - Message 6 published successfully
+2025-05-06 14:06:28,509 - INFO - [7] Published to topic: test/custom/topic
+2025-05-06 14:06:28,509 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.7, "timestamp": "2025-05-06T14:06:28.509607"}
+2025-05-06 14:06:28,509 - INFO - Message 7 published successfully
+2025-05-06 14:06:30,524 - INFO - [8] Published to topic: test/custom/topic
+2025-05-06 14:06:30,524 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.31, "timestamp": "2025-05-06T14:06:30.524959"}
+2025-05-06 14:06:30,524 - INFO - Message 8 published successfully
+2025-05-06 14:06:32,530 - INFO - [9] Published to topic: test/custom/topic
+2025-05-06 14:06:32,530 - INFO - Message 9 published successfully
+2025-05-06 14:06:32,530 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.09, "timestamp": "2025-05-06T14:06:32.529842"}
+2025-05-06 14:06:34,534 - INFO - [10] Published to topic: test/custom/topic
+2025-05-06 14:06:34,534 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.68, "timestamp": "2025-05-06T14:06:34.534838"}
+2025-05-06 14:06:34,534 - INFO - Message 10 published successfully
+2025-05-06 14:06:36,543 - INFO - [11] Published to topic: test/custom/topic
+2025-05-06 14:06:36,544 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.76, "timestamp": "2025-05-06T14:06:36.543241"}
+2025-05-06 14:06:36,544 - INFO - Message 11 published successfully
+2025-05-06 14:06:38,559 - INFO - [12] Published to topic: test/custom/topic
+2025-05-06 14:06:38,559 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.97, "timestamp": "2025-05-06T14:06:38.558050"}
+2025-05-06 14:06:38,559 - INFO - Message 12 published successfully
+2025-05-06 14:06:40,573 - INFO - [13] Published to topic: test/custom/topic
+2025-05-06 14:06:40,573 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.07, "timestamp": "2025-05-06T14:06:40.572440"}
+2025-05-06 14:06:40,573 - INFO - Message 13 published successfully
+2025-05-06 14:06:42,588 - INFO - [14] Published to topic: test/custom/topic
+2025-05-06 14:06:42,588 - INFO - Message 14 published successfully
+2025-05-06 14:06:42,588 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.71, "timestamp": "2025-05-06T14:06:42.587456"}
+2025-05-06 14:06:44,607 - INFO - [15] Published to topic: test/custom/topic
+2025-05-06 14:06:44,607 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.53, "timestamp": "2025-05-06T14:06:44.607096"}
+2025-05-06 14:06:44,607 - INFO - Message 15 published successfully
+2025-05-06 14:06:46,616 - INFO - [16] Published to topic: test/custom/topic
+2025-05-06 14:06:46,616 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.03, "timestamp": "2025-05-06T14:06:46.616420"}
+2025-05-06 14:06:46,616 - INFO - Message 16 published successfully
+2025-05-06 14:06:48,616 - INFO - [17] Published to topic: test/custom/topic
+2025-05-06 14:06:48,616 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.06, "timestamp": "2025-05-06T14:06:48.616552"}
+2025-05-06 14:06:48,616 - INFO - Message 17 published successfully
+2025-05-06 14:06:50,630 - INFO - [18] Published to topic: test/custom/topic
+2025-05-06 14:06:50,630 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.92, "timestamp": "2025-05-06T14:06:50.630900"}
+2025-05-06 14:06:50,630 - INFO - Message 18 published successfully
+2025-05-06 14:06:52,639 - INFO - [19] Published to topic: test/custom/topic
+2025-05-06 14:06:52,639 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.18, "timestamp": "2025-05-06T14:06:52.639208"}
+2025-05-06 14:06:52,639 - INFO - Message 19 published successfully
+2025-05-06 14:06:54,640 - INFO - [20] Published to topic: test/custom/topic
+2025-05-06 14:06:54,640 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.4, "timestamp": "2025-05-06T14:06:54.640349"}
+2025-05-06 14:06:54,640 - INFO - Message 20 published successfully
+2025-05-06 14:06:54,869 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:06:56,643 - INFO - Stopping MQTT producer...
+2025-05-06 14:06:57,654 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:06:57,654 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:06:57,654 - INFO - MQTT producer stopped
+2025-05-06 14:07:35,184 - INFO - ***************  MQTT Producer for Windows  ***************
+2025-05-06 14:07:35,204 - INFO - MQTT producer started. Publishing to localhost:1883
+2025-05-06 14:07:35,204 - INFO - Press Ctrl+C to stop
+2025-05-06 14:07:35,206 - INFO - Message 1 published successfully
+2025-05-06 14:07:35,206 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:07:35,206 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.49, "timestamp": "2025-05-06T14:07:35.206916"}
+2025-05-06 14:07:37,220 - INFO - Message 2 published successfully
+2025-05-06 14:07:37,220 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:07:37,220 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.09, "timestamp": "2025-05-06T14:07:37.220789"}
+2025-05-06 14:07:39,222 - INFO - Message 3 published successfully
+2025-05-06 14:07:39,222 - INFO - [3] Published to topic: test/custom/topic
+2025-05-06 14:07:39,222 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.39, "timestamp": "2025-05-06T14:07:39.222602"}
+2025-05-06 14:07:41,225 - INFO - Message 4 published successfully
+2025-05-06 14:07:41,225 - INFO - [4] Published to topic: test/custom/topic
+2025-05-06 14:07:41,225 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.43, "timestamp": "2025-05-06T14:07:41.225271"}
+2025-05-06 14:07:43,229 - INFO - Message 5 published successfully
+2025-05-06 14:07:43,229 - INFO - [5] Published to topic: test/custom/topic
+2025-05-06 14:07:43,229 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.73, "timestamp": "2025-05-06T14:07:43.229146"}
+2025-05-06 14:07:45,240 - INFO - Message 6 published successfully
+2025-05-06 14:07:45,240 - INFO - [6] Published to topic: test/custom/topic
+2025-05-06 14:07:45,240 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.25, "timestamp": "2025-05-06T14:07:45.240025"}
+2025-05-06 14:07:47,244 - INFO - Message 7 published successfully
+2025-05-06 14:07:47,244 - INFO - [7] Published to topic: test/custom/topic
+2025-05-06 14:07:47,244 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.3, "timestamp": "2025-05-06T14:07:47.244940"}
+2025-05-06 14:07:49,257 - INFO - Message 8 published successfully
+2025-05-06 14:07:49,257 - INFO - [8] Published to topic: test/custom/topic
+2025-05-06 14:07:49,257 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.63, "timestamp": "2025-05-06T14:07:49.257183"}
+2025-05-06 14:07:51,266 - INFO - Message 9 published successfully
+2025-05-06 14:07:51,266 - INFO - [9] Published to topic: test/custom/topic
+2025-05-06 14:07:51,266 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.35, "timestamp": "2025-05-06T14:07:51.266585"}
+2025-05-06 14:07:53,269 - INFO - Message 10 published successfully
+2025-05-06 14:07:53,269 - INFO - [10] Published to topic: test/custom/topic
+2025-05-06 14:07:53,269 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.49, "timestamp": "2025-05-06T14:07:53.269345"}
+2025-05-06 14:07:55,278 - INFO - Message 11 published successfully
+2025-05-06 14:07:55,278 - INFO - [11] Published to topic: test/custom/topic
+2025-05-06 14:07:55,278 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.4, "timestamp": "2025-05-06T14:07:55.278966"}
+2025-05-06 14:07:57,283 - INFO - Message 12 published successfully
+2025-05-06 14:07:57,283 - INFO - [12] Published to topic: test/custom/topic
+2025-05-06 14:07:57,284 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.79, "timestamp": "2025-05-06T14:07:57.282680"}
+2025-05-06 14:07:59,292 - INFO - Message 13 published successfully
+2025-05-06 14:07:59,292 - INFO - [13] Published to topic: test/custom/topic
+2025-05-06 14:07:59,292 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.82, "timestamp": "2025-05-06T14:07:59.292400"}
+2025-05-06 14:08:01,294 - INFO - Message 14 published successfully
+2025-05-06 14:08:01,294 - INFO - [14] Published to topic: test/custom/topic
+2025-05-06 14:08:01,294 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.41, "timestamp": "2025-05-06T14:08:01.294256"}
+2025-05-06 14:08:03,304 - INFO - Message 15 published successfully
+2025-05-06 14:08:03,304 - INFO - [15] Published to topic: test/custom/topic
+2025-05-06 14:08:03,304 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.22, "timestamp": "2025-05-06T14:08:03.304757"}
+2025-05-06 14:08:05,306 - INFO - Message 16 published successfully
+2025-05-06 14:08:05,307 - INFO - [16] Published to topic: test/custom/topic
+2025-05-06 14:08:05,307 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.71, "timestamp": "2025-05-06T14:08:05.306317"}
+2025-05-06 14:08:07,318 - INFO - Message 17 published successfully
+2025-05-06 14:08:07,318 - INFO - [17] Published to topic: test/custom/topic
+2025-05-06 14:08:07,318 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.14, "timestamp": "2025-05-06T14:08:07.318826"}
+2025-05-06 14:08:09,321 - INFO - Message 18 published successfully
+2025-05-06 14:08:09,321 - INFO - [18] Published to topic: test/custom/topic
+2025-05-06 14:08:09,321 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.88, "timestamp": "2025-05-06T14:08:09.321940"}
+2025-05-06 14:08:11,322 - INFO - Message 19 published successfully
+2025-05-06 14:08:11,322 - INFO - [19] Published to topic: test/custom/topic
+2025-05-06 14:08:11,322 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.13, "timestamp": "2025-05-06T14:08:11.322441"}
+2025-05-06 14:08:13,332 - INFO - Message 20 published successfully
+2025-05-06 14:08:13,332 - INFO - [20] Published to topic: test/custom/topic
+2025-05-06 14:08:13,332 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.14, "timestamp": "2025-05-06T14:08:13.332086"}
+2025-05-06 14:08:15,332 - INFO - Message 21 published successfully
+2025-05-06 14:08:15,332 - INFO - [21] Published to topic: test/custom/topic
+2025-05-06 14:08:15,334 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.46, "timestamp": "2025-05-06T14:08:15.332806"}
+2025-05-06 14:08:17,338 - INFO - Message 22 published successfully
+2025-05-06 14:08:17,338 - INFO - [22] Published to topic: test/custom/topic
+2025-05-06 14:08:17,338 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.07, "timestamp": "2025-05-06T14:08:17.338352"}
+2025-05-06 14:08:19,346 - INFO - Message 23 published successfully
+2025-05-06 14:08:19,347 - INFO - [23] Published to topic: test/custom/topic
+2025-05-06 14:08:19,347 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.86, "timestamp": "2025-05-06T14:08:19.346514"}
+2025-05-06 14:08:21,356 - INFO - Message 24 published successfully
+2025-05-06 14:08:21,356 - INFO - [24] Published to topic: test/custom/topic
+2025-05-06 14:08:21,356 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.64, "timestamp": "2025-05-06T14:08:21.356569"}
+2025-05-06 14:08:23,372 - INFO - Message 25 published successfully
+2025-05-06 14:08:23,372 - INFO - [25] Published to topic: test/custom/topic
+2025-05-06 14:08:23,372 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.03, "timestamp": "2025-05-06T14:08:23.372286"}
+2025-05-06 14:08:25,379 - INFO - Message 26 published successfully
+2025-05-06 14:08:25,379 - INFO - [26] Published to topic: test/custom/topic
+2025-05-06 14:08:25,379 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.77, "timestamp": "2025-05-06T14:08:25.379962"}
+2025-05-06 14:08:27,388 - INFO - Message 27 published successfully
+2025-05-06 14:08:27,388 - INFO - [27] Published to topic: test/custom/topic
+2025-05-06 14:08:27,388 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.21, "timestamp": "2025-05-06T14:08:27.388263"}
+2025-05-06 14:08:29,388 - INFO - Message 28 published successfully
+2025-05-06 14:08:29,388 - INFO - [28] Published to topic: test/custom/topic
+2025-05-06 14:08:29,388 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.18, "timestamp": "2025-05-06T14:08:29.388371"}
+2025-05-06 14:08:31,389 - INFO - Message 29 published successfully
+2025-05-06 14:08:31,390 - INFO - [29] Published to topic: test/custom/topic
+2025-05-06 14:08:31,390 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.46, "timestamp": "2025-05-06T14:08:31.389929"}
+2025-05-06 14:08:33,396 - INFO - Message 30 published successfully
+2025-05-06 14:08:33,396 - INFO - [30] Published to topic: test/custom/topic
+2025-05-06 14:08:33,396 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.05, "timestamp": "2025-05-06T14:08:33.396613"}
+2025-05-06 14:08:35,409 - INFO - Message 31 published successfully
+2025-05-06 14:08:35,409 - INFO - [31] Published to topic: test/custom/topic
+2025-05-06 14:08:35,409 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.16, "timestamp": "2025-05-06T14:08:35.409883"}
+2025-05-06 14:08:35,548 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:08:35,818 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:08:37,413 - INFO - Stopping MQTT producer...
+2025-05-06 14:09:50,484 - INFO - ***************  MQTT Producer for Windows  ***************
+2025-05-06 14:09:50,511 - INFO - MQTT producer started. Publishing to localhost:1883
+2025-05-06 14:09:50,512 - INFO - Press Ctrl+C to stop
+2025-05-06 14:09:50,512 - INFO - Connected to MQTT broker at localhost:1883
+2025-05-06 14:09:50,512 - INFO - [1] Published to topic: test/custom/topic
+2025-05-06 14:09:50,512 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.1, "timestamp": "2025-05-06T14:09:50.512182"}
+2025-05-06 14:09:50,512 - INFO - Message 1 published successfully
+2025-05-06 14:09:52,523 - INFO - [2] Published to topic: test/custom/topic
+2025-05-06 14:09:52,523 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.11, "timestamp": "2025-05-06T14:09:52.523687"}
+2025-05-06 14:09:52,523 - INFO - Message 2 published successfully
+2025-05-06 14:09:54,525 - INFO - [3] Published to topic: test/custom/topic
+2025-05-06 14:09:54,525 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.85, "timestamp": "2025-05-06T14:09:54.525512"}
+2025-05-06 14:09:54,525 - INFO - Message 3 published successfully
+2025-05-06 14:09:56,528 - INFO - [4] Published to topic: test/custom/topic
+2025-05-06 14:09:56,528 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.8, "timestamp": "2025-05-06T14:09:56.528777"}
+2025-05-06 14:09:56,528 - INFO - Message 4 published successfully
+2025-05-06 14:09:58,538 - INFO - [5] Published to topic: test/custom/topic
+2025-05-06 14:09:58,538 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.29, "timestamp": "2025-05-06T14:09:58.538147"}
+2025-05-06 14:09:58,538 - INFO - Message 5 published successfully
+2025-05-06 14:10:00,549 - INFO - [6] Published to topic: test/custom/topic
+2025-05-06 14:10:00,549 - INFO - Message 6 published successfully
+2025-05-06 14:10:00,549 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.78, "timestamp": "2025-05-06T14:10:00.549471"}
+2025-05-06 14:10:02,556 - INFO - [7] Published to topic: test/custom/topic
+2025-05-06 14:10:02,556 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.49, "timestamp": "2025-05-06T14:10:02.556592"}
+2025-05-06 14:10:02,556 - INFO - Message 7 published successfully
+2025-05-06 14:10:04,559 - INFO - [8] Published to topic: test/custom/topic
+2025-05-06 14:10:04,559 - INFO - Message 8 published successfully
+2025-05-06 14:10:04,559 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.8, "timestamp": "2025-05-06T14:10:04.559501"}
+2025-05-06 14:10:06,570 - INFO - [9] Published to topic: test/custom/topic
+2025-05-06 14:10:06,570 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.32, "timestamp": "2025-05-06T14:10:06.570515"}
+2025-05-06 14:10:06,570 - INFO - Message 9 published successfully
+2025-05-06 14:10:08,577 - INFO - [10] Published to topic: test/custom/topic
+2025-05-06 14:10:08,578 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.16, "timestamp": "2025-05-06T14:10:08.577992"}
+2025-05-06 14:10:08,578 - INFO - Message 10 published successfully
+2025-05-06 14:10:10,586 - INFO - [11] Published to topic: test/custom/topic
+2025-05-06 14:10:10,586 - INFO - Message 11 published successfully
+2025-05-06 14:10:10,586 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.73, "timestamp": "2025-05-06T14:10:10.586942"}
+2025-05-06 14:10:12,589 - INFO - [12] Published to topic: test/custom/topic
+2025-05-06 14:10:12,589 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.75, "timestamp": "2025-05-06T14:10:12.589447"}
+2025-05-06 14:10:12,589 - INFO - Message 12 published successfully
+2025-05-06 14:10:14,591 - INFO - [13] Published to topic: test/custom/topic
+2025-05-06 14:10:14,591 - INFO - Message 13 published successfully
+2025-05-06 14:10:14,591 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.76, "timestamp": "2025-05-06T14:10:14.591417"}
+2025-05-06 14:10:16,596 - INFO - [14] Published to topic: test/custom/topic
+2025-05-06 14:10:16,596 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.35, "timestamp": "2025-05-06T14:10:16.596458"}
+2025-05-06 14:10:16,596 - INFO - Message 14 published successfully
+2025-05-06 14:10:18,604 - INFO - [15] Published to topic: test/custom/topic
+2025-05-06 14:10:18,604 - INFO - Message 15 published successfully
+2025-05-06 14:10:18,604 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.84, "timestamp": "2025-05-06T14:10:18.604842"}
+2025-05-06 14:10:20,617 - INFO - [16] Published to topic: test/custom/topic
+2025-05-06 14:10:20,618 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.16, "timestamp": "2025-05-06T14:10:20.617383"}
+2025-05-06 14:10:20,618 - INFO - Message 16 published successfully
+2025-05-06 14:10:22,623 - INFO - [17] Published to topic: test/custom/topic
+2025-05-06 14:10:22,623 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.89, "timestamp": "2025-05-06T14:10:22.623652"}
+2025-05-06 14:10:22,623 - INFO - Message 17 published successfully
+2025-05-06 14:10:24,630 - INFO - [18] Published to topic: test/custom/topic
+2025-05-06 14:10:24,630 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.25, "timestamp": "2025-05-06T14:10:24.630330"}
+2025-05-06 14:10:24,630 - INFO - Message 18 published successfully
+2025-05-06 14:10:26,637 - INFO - [19] Published to topic: test/custom/topic
+2025-05-06 14:10:26,637 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.05, "timestamp": "2025-05-06T14:10:26.637708"}
+2025-05-06 14:10:26,637 - INFO - Message 19 published successfully
+2025-05-06 14:10:28,638 - INFO - [20] Published to topic: test/custom/topic
+2025-05-06 14:10:28,638 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.02, "timestamp": "2025-05-06T14:10:28.638981"}
+2025-05-06 14:10:28,638 - INFO - Message 20 published successfully
+2025-05-06 14:10:30,639 - INFO - [21] Published to topic: test/custom/topic
+2025-05-06 14:10:30,639 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.18, "timestamp": "2025-05-06T14:10:30.639838"}
+2025-05-06 14:10:30,639 - INFO - Message 21 published successfully
+2025-05-06 14:10:32,639 - INFO - [22] Published to topic: test/custom/topic
+2025-05-06 14:10:32,639 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.69, "timestamp": "2025-05-06T14:10:32.639843"}
+2025-05-06 14:10:32,639 - INFO - Message 22 published successfully
+2025-05-06 14:10:34,641 - INFO - [23] Published to topic: test/custom/topic
+2025-05-06 14:10:34,641 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.4, "timestamp": "2025-05-06T14:10:34.640903"}
+2025-05-06 14:10:34,641 - INFO - Message 23 published successfully
+2025-05-06 14:10:36,649 - INFO - [24] Published to topic: test/custom/topic
+2025-05-06 14:10:36,649 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.99, "timestamp": "2025-05-06T14:10:36.649689"}
+2025-05-06 14:10:36,649 - INFO - Message 24 published successfully
+2025-05-06 14:10:38,653 - INFO - [25] Published to topic: test/custom/topic
+2025-05-06 14:10:38,653 - INFO - Message 25 published successfully
+2025-05-06 14:10:38,653 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.28, "timestamp": "2025-05-06T14:10:38.653604"}
+2025-05-06 14:10:40,661 - INFO - [26] Published to topic: test/custom/topic
+2025-05-06 14:10:40,661 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.52, "timestamp": "2025-05-06T14:10:40.661055"}
+2025-05-06 14:10:40,661 - INFO - Message 26 published successfully
+2025-05-06 14:10:42,661 - INFO - [27] Published to topic: test/custom/topic
+2025-05-06 14:10:42,661 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.04, "timestamp": "2025-05-06T14:10:42.661627"}
+2025-05-06 14:10:42,662 - INFO - Message 27 published successfully
+2025-05-06 14:10:44,662 - INFO - [28] Published to topic: test/custom/topic
+2025-05-06 14:10:44,662 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.4, "timestamp": "2025-05-06T14:10:44.662067"}
+2025-05-06 14:10:44,662 - INFO - Message 28 published successfully
+2025-05-06 14:10:46,675 - INFO - [29] Published to topic: test/custom/topic
+2025-05-06 14:10:46,675 - INFO - Message 29 published successfully
+2025-05-06 14:10:46,675 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.15, "timestamp": "2025-05-06T14:10:46.675250"}
+2025-05-06 14:10:48,692 - INFO - [30] Published to topic: test/custom/topic
+2025-05-06 14:10:48,693 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.47, "timestamp": "2025-05-06T14:10:48.691197"}
+2025-05-06 14:10:48,693 - INFO - Message 30 published successfully
+2025-05-06 14:10:50,727 - INFO - [31] Published to topic: test/custom/topic
+2025-05-06 14:10:50,727 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.78, "timestamp": "2025-05-06T14:10:50.727245"}
+2025-05-06 14:10:50,727 - INFO - Message 31 published successfully
+2025-05-06 14:10:52,738 - INFO - [32] Published to topic: test/custom/topic
+2025-05-06 14:10:52,738 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.17, "timestamp": "2025-05-06T14:10:52.737637"}
+2025-05-06 14:10:52,738 - INFO - Message 32 published successfully
+2025-05-06 14:10:54,753 - INFO - [33] Published to topic: test/custom/topic
+2025-05-06 14:10:54,753 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.61, "timestamp": "2025-05-06T14:10:54.753237"}
+2025-05-06 14:10:54,753 - INFO - Message 33 published successfully
+2025-05-06 14:10:56,765 - INFO - [34] Published to topic: test/custom/topic
+2025-05-06 14:10:56,765 - INFO - Message 34 published successfully
+2025-05-06 14:10:56,765 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.86, "timestamp": "2025-05-06T14:10:56.765720"}
+2025-05-06 14:10:58,776 - INFO - [35] Published to topic: test/custom/topic
+2025-05-06 14:10:58,777 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.3, "timestamp": "2025-05-06T14:10:58.776074"}
+2025-05-06 14:10:58,777 - INFO - Message 35 published successfully
+2025-05-06 14:11:00,779 - INFO - [36] Published to topic: test/custom/topic
+2025-05-06 14:11:00,779 - INFO - Message 36 published successfully
+2025-05-06 14:11:00,779 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.34, "timestamp": "2025-05-06T14:11:00.778918"}
+2025-05-06 14:11:02,792 - INFO - [37] Published to topic: test/custom/topic
+2025-05-06 14:11:02,792 - INFO - Message 37 published successfully
+2025-05-06 14:11:02,792 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.51, "timestamp": "2025-05-06T14:11:02.792913"}
+2025-05-06 14:11:04,797 - INFO - [38] Published to topic: test/custom/topic
+2025-05-06 14:11:04,797 - INFO - Message 38 published successfully
+2025-05-06 14:11:04,797 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.86, "timestamp": "2025-05-06T14:11:04.797405"}
+2025-05-06 14:11:06,807 - INFO - [39] Published to topic: test/custom/topic
+2025-05-06 14:11:06,807 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.64, "timestamp": "2025-05-06T14:11:06.807371"}
+2025-05-06 14:11:06,808 - INFO - Message 39 published successfully
+2025-05-06 14:11:08,818 - INFO - [40] Published to topic: test/custom/topic
+2025-05-06 14:11:08,818 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.81, "timestamp": "2025-05-06T14:11:08.817811"}
+2025-05-06 14:11:08,818 - INFO - Message 40 published successfully
+2025-05-06 14:11:10,827 - INFO - [41] Published to topic: test/custom/topic
+2025-05-06 14:11:10,827 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.95, "timestamp": "2025-05-06T14:11:10.827083"}
+2025-05-06 14:11:10,827 - INFO - Message 41 published successfully
+2025-05-06 14:11:12,827 - INFO - [42] Published to topic: test/custom/topic
+2025-05-06 14:11:12,827 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.3, "timestamp": "2025-05-06T14:11:12.827715"}
+2025-05-06 14:11:12,827 - INFO - Message 42 published successfully
+2025-05-06 14:11:12,848 - INFO -   test_device status: active, value: 27.3, timestamp: 2025-05-06T14:11:12.827715
+2025-05-06 14:11:14,829 - INFO - [43] Published to topic: test/custom/topic
+2025-05-06 14:11:14,829 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.48, "timestamp": "2025-05-06T14:11:14.829531"}
+2025-05-06 14:11:14,829 - INFO - Message 43 published successfully
+2025-05-06 14:11:14,843 - INFO -   test_device status: active, value: 23.48, timestamp: 2025-05-06T14:11:14.829531
+2025-05-06 14:11:16,831 - INFO - [44] Published to topic: test/custom/topic
+2025-05-06 14:11:16,832 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.78, "timestamp": "2025-05-06T14:11:16.831395"}
+2025-05-06 14:11:16,832 - INFO - Message 44 published successfully
+2025-05-06 14:11:16,843 - INFO -   test_device status: active, value: 29.78, timestamp: 2025-05-06T14:11:16.831395
+2025-05-06 14:11:18,847 - INFO - [45] Published to topic: test/custom/topic
+2025-05-06 14:11:18,847 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.5, "timestamp": "2025-05-06T14:11:18.845955"}
+2025-05-06 14:11:18,847 - INFO - Message 45 published successfully
+2025-05-06 14:11:18,859 - INFO -   test_device status: active, value: 26.5, timestamp: 2025-05-06T14:11:18.845955
+2025-05-06 14:11:20,860 - INFO - [46] Published to topic: test/custom/topic
+2025-05-06 14:11:20,860 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.98, "timestamp": "2025-05-06T14:11:20.860612"}
+2025-05-06 14:11:20,860 - INFO - Message 46 published successfully
+2025-05-06 14:11:20,873 - INFO -   test_device status: active, value: 20.98, timestamp: 2025-05-06T14:11:20.860612
+2025-05-06 14:11:22,865 - INFO - [47] Published to topic: test/custom/topic
+2025-05-06 14:11:22,865 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.22, "timestamp": "2025-05-06T14:11:22.865571"}
+2025-05-06 14:11:22,865 - INFO - Message 47 published successfully
+2025-05-06 14:11:22,888 - INFO -   test_device status: active, value: 29.22, timestamp: 2025-05-06T14:11:22.865571
+2025-05-06 14:11:24,878 - INFO - [48] Published to topic: test/custom/topic
+2025-05-06 14:11:24,878 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.56, "timestamp": "2025-05-06T14:11:24.878193"}
+2025-05-06 14:11:24,878 - INFO - Message 48 published successfully
+2025-05-06 14:11:24,901 - INFO -   test_device status: active, value: 22.56, timestamp: 2025-05-06T14:11:24.878193
+2025-05-06 14:11:26,884 - INFO - [49] Published to topic: test/custom/topic
+2025-05-06 14:11:26,884 - INFO - Message 49 published successfully
+2025-05-06 14:11:26,884 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.13, "timestamp": "2025-05-06T14:11:26.884528"}
+2025-05-06 14:11:26,898 - INFO -   test_device status: active, value: 23.13, timestamp: 2025-05-06T14:11:26.884528
+2025-05-06 14:11:28,888 - INFO - [50] Published to topic: test/custom/topic
+2025-05-06 14:11:28,888 - INFO - Message 50 published successfully
+2025-05-06 14:11:28,888 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.89, "timestamp": "2025-05-06T14:11:28.886902"}
+2025-05-06 14:11:28,979 - INFO -   test_device status: active, value: 20.89, timestamp: 2025-05-06T14:11:28.886902
+2025-05-06 14:11:30,892 - INFO - [51] Published to topic: test/custom/topic
+2025-05-06 14:11:30,892 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.92, "timestamp": "2025-05-06T14:11:30.892175"}
+2025-05-06 14:11:30,892 - INFO - Message 51 published successfully
+2025-05-06 14:11:30,903 - INFO -   test_device status: active, value: 27.92, timestamp: 2025-05-06T14:11:30.892175
+2025-05-06 14:11:32,898 - INFO - [52] Published to topic: test/custom/topic
+2025-05-06 14:11:32,899 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.83, "timestamp": "2025-05-06T14:11:32.898759"}
+2025-05-06 14:11:32,899 - INFO - Message 52 published successfully
+2025-05-06 14:11:32,916 - INFO -   test_device status: active, value: 23.83, timestamp: 2025-05-06T14:11:32.898759
+2025-05-06 14:11:34,915 - INFO - [53] Published to topic: test/custom/topic
+2025-05-06 14:11:34,916 - INFO - Message 53 published successfully
+2025-05-06 14:11:34,916 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.71, "timestamp": "2025-05-06T14:11:34.914538"}
+2025-05-06 14:11:34,935 - INFO -   test_device status: active, value: 23.71, timestamp: 2025-05-06T14:11:34.914538
+2025-05-06 14:11:36,916 - INFO - [54] Published to topic: test/custom/topic
+2025-05-06 14:11:36,916 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.79, "timestamp": "2025-05-06T14:11:36.916293"}
+2025-05-06 14:11:36,916 - INFO - Message 54 published successfully
+2025-05-06 14:11:36,928 - INFO -   test_device status: active, value: 28.79, timestamp: 2025-05-06T14:11:36.916293
+2025-05-06 14:11:38,926 - INFO - [55] Published to topic: test/custom/topic
+2025-05-06 14:11:38,927 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.63, "timestamp": "2025-05-06T14:11:38.926346"}
+2025-05-06 14:11:38,927 - INFO - Message 55 published successfully
+2025-05-06 14:11:38,950 - INFO -   test_device status: active, value: 29.63, timestamp: 2025-05-06T14:11:38.926346
+2025-05-06 14:11:40,931 - INFO - [56] Published to topic: test/custom/topic
+2025-05-06 14:11:40,931 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.55, "timestamp": "2025-05-06T14:11:40.931979"}
+2025-05-06 14:11:40,931 - INFO - Message 56 published successfully
+2025-05-06 14:11:40,945 - INFO -   test_device status: active, value: 28.55, timestamp: 2025-05-06T14:11:40.931979
+2025-05-06 14:11:42,937 - INFO - [57] Published to topic: test/custom/topic
+2025-05-06 14:11:42,937 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.8, "timestamp": "2025-05-06T14:11:42.937647"}
+2025-05-06 14:11:42,938 - INFO - Message 57 published successfully
+2025-05-06 14:11:42,953 - INFO -   test_device status: active, value: 29.8, timestamp: 2025-05-06T14:11:42.937647
+2025-05-06 14:11:44,939 - INFO - [58] Published to topic: test/custom/topic
+2025-05-06 14:11:44,939 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.67, "timestamp": "2025-05-06T14:11:44.939499"}
+2025-05-06 14:11:44,939 - INFO - Message 58 published successfully
+2025-05-06 14:11:44,951 - INFO -   test_device status: active, value: 24.67, timestamp: 2025-05-06T14:11:44.939499
+2025-05-06 14:11:46,940 - INFO - [59] Published to topic: test/custom/topic
+2025-05-06 14:11:46,940 - INFO - Message 59 published successfully
+2025-05-06 14:11:46,940 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.96, "timestamp": "2025-05-06T14:11:46.940983"}
+2025-05-06 14:11:46,954 - INFO -   test_device status: active, value: 24.96, timestamp: 2025-05-06T14:11:46.940983
+2025-05-06 14:11:48,954 - INFO - [60] Published to topic: test/custom/topic
+2025-05-06 14:11:48,955 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.6, "timestamp": "2025-05-06T14:11:48.954579"}
+2025-05-06 14:11:48,955 - INFO - Message 60 published successfully
+2025-05-06 14:11:48,973 - INFO -   test_device status: active, value: 29.6, timestamp: 2025-05-06T14:11:48.954579
+2025-05-06 14:11:50,966 - INFO - [61] Published to topic: test/custom/topic
+2025-05-06 14:11:50,966 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.82, "timestamp": "2025-05-06T14:11:50.966196"}
+2025-05-06 14:11:50,967 - INFO - Message 61 published successfully
+2025-05-06 14:11:50,985 - INFO -   test_device status: active, value: 29.82, timestamp: 2025-05-06T14:11:50.966196
+2025-05-06 14:11:52,980 - INFO - [62] Published to topic: test/custom/topic
+2025-05-06 14:11:52,980 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.45, "timestamp": "2025-05-06T14:11:52.980612"}
+2025-05-06 14:11:52,980 - INFO - Message 62 published successfully
+2025-05-06 14:11:53,001 - INFO -   test_device status: active, value: 29.45, timestamp: 2025-05-06T14:11:52.980612
+2025-05-06 14:11:54,981 - INFO - [63] Published to topic: test/custom/topic
+2025-05-06 14:11:54,981 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.92, "timestamp": "2025-05-06T14:11:54.981213"}
+2025-05-06 14:11:54,981 - INFO - Message 63 published successfully
+2025-05-06 14:11:54,995 - INFO -   test_device status: active, value: 20.92, timestamp: 2025-05-06T14:11:54.981213
+2025-05-06 14:11:56,992 - INFO - [64] Published to topic: test/custom/topic
+2025-05-06 14:11:56,992 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.41, "timestamp": "2025-05-06T14:11:56.992715"}
+2025-05-06 14:11:56,992 - INFO - Message 64 published successfully
+2025-05-06 14:11:57,013 - INFO -   test_device status: active, value: 23.41, timestamp: 2025-05-06T14:11:56.992715
+2025-05-06 14:11:59,007 - INFO - [65] Published to topic: test/custom/topic
+2025-05-06 14:11:59,008 - INFO - Message 65 published successfully
+2025-05-06 14:11:59,008 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.0, "timestamp": "2025-05-06T14:11:59.007869"}
+2025-05-06 14:11:59,023 - INFO -   test_device status: active, value: 26.0, timestamp: 2025-05-06T14:11:59.007869
+2025-05-06 14:12:01,022 - INFO - [66] Published to topic: test/custom/topic
+2025-05-06 14:12:01,023 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.78, "timestamp": "2025-05-06T14:12:01.022203"}
+2025-05-06 14:12:01,023 - INFO - Message 66 published successfully
+2025-05-06 14:12:01,050 - INFO -   test_device status: active, value: 22.78, timestamp: 2025-05-06T14:12:01.022203
+2025-05-06 14:12:03,038 - INFO - [67] Published to topic: test/custom/topic
+2025-05-06 14:12:03,039 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.78, "timestamp": "2025-05-06T14:12:03.038626"}
+2025-05-06 14:12:03,039 - INFO - Message 67 published successfully
+2025-05-06 14:12:03,057 - INFO -   test_device status: active, value: 22.78, timestamp: 2025-05-06T14:12:03.038626
+2025-05-06 14:12:05,046 - INFO - [68] Published to topic: test/custom/topic
+2025-05-06 14:12:05,046 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.89, "timestamp": "2025-05-06T14:12:05.046435"}
+2025-05-06 14:12:05,047 - INFO - Message 68 published successfully
+2025-05-06 14:12:05,059 - INFO -   test_device status: active, value: 21.89, timestamp: 2025-05-06T14:12:05.046435
+2025-05-06 14:12:07,049 - INFO - [69] Published to topic: test/custom/topic
+2025-05-06 14:12:07,049 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.38, "timestamp": "2025-05-06T14:12:07.049301"}
+2025-05-06 14:12:07,049 - INFO - Message 69 published successfully
+2025-05-06 14:12:07,672 - INFO -  Connected to MQTT broker at localhost:1883
+2025-05-06 14:12:07,672 - INFO -  Subscribed to topic: test/custom/topic
+2025-05-06 14:12:09,061 - INFO - [70] Published to topic: test/custom/topic
+2025-05-06 14:12:09,061 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.72, "timestamp": "2025-05-06T14:12:09.061650"}
+2025-05-06 14:12:09,061 - INFO - Message 70 published successfully
+2025-05-06 14:12:09,081 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:09,081 - INFO -   test_device status: active, value: 21.72, timestamp: 2025-05-06T14:12:09.061650
+2025-05-06 14:12:11,062 - INFO - [71] Published to topic: test/custom/topic
+2025-05-06 14:12:11,062 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.19, "timestamp": "2025-05-06T14:12:11.062721"}
+2025-05-06 14:12:11,062 - INFO - Message 71 published successfully
+2025-05-06 14:12:11,076 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:11,076 - INFO -   test_device status: active, value: 27.19, timestamp: 2025-05-06T14:12:11.062721
+2025-05-06 14:12:13,068 - INFO - [72] Published to topic: test/custom/topic
+2025-05-06 14:12:13,068 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.29, "timestamp": "2025-05-06T14:12:13.068515"}
+2025-05-06 14:12:13,068 - INFO - Message 72 published successfully
+2025-05-06 14:12:13,087 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:13,087 - INFO -   test_device status: active, value: 25.29, timestamp: 2025-05-06T14:12:13.068515
+2025-05-06 14:12:15,076 - INFO - [73] Published to topic: test/custom/topic
+2025-05-06 14:12:15,076 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.29, "timestamp": "2025-05-06T14:12:15.076934"}
+2025-05-06 14:12:15,077 - INFO - Message 73 published successfully
+2025-05-06 14:12:15,088 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:15,088 - INFO -   test_device status: active, value: 27.29, timestamp: 2025-05-06T14:12:15.076934
+2025-05-06 14:12:17,090 - INFO - [74] Published to topic: test/custom/topic
+2025-05-06 14:12:17,090 - INFO - Message 74 published successfully
+2025-05-06 14:12:17,090 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.76, "timestamp": "2025-05-06T14:12:17.090789"}
+2025-05-06 14:12:17,104 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:17,104 - INFO -   test_device status: active, value: 26.76, timestamp: 2025-05-06T14:12:17.090789
+2025-05-06 14:12:17,104 - INFO - Committed 5 messages to database
+2025-05-06 14:12:19,091 - INFO - [75] Published to topic: test/custom/topic
+2025-05-06 14:12:19,091 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.73, "timestamp": "2025-05-06T14:12:19.091396"}
+2025-05-06 14:12:19,091 - INFO - Message 75 published successfully
+2025-05-06 14:12:19,101 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:19,101 - INFO -   test_device status: active, value: 23.73, timestamp: 2025-05-06T14:12:19.091396
+2025-05-06 14:12:21,097 - INFO - [76] Published to topic: test/custom/topic
+2025-05-06 14:12:21,097 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.16, "timestamp": "2025-05-06T14:12:21.097451"}
+2025-05-06 14:12:21,097 - INFO - Message 76 published successfully
+2025-05-06 14:12:21,110 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:21,110 - INFO -   test_device status: active, value: 21.16, timestamp: 2025-05-06T14:12:21.097451
+2025-05-06 14:12:23,099 - INFO - [77] Published to topic: test/custom/topic
+2025-05-06 14:12:23,099 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.87, "timestamp": "2025-05-06T14:12:23.099290"}
+2025-05-06 14:12:23,099 - INFO - Message 77 published successfully
+2025-05-06 14:12:23,112 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:23,112 - INFO -   test_device status: active, value: 26.87, timestamp: 2025-05-06T14:12:23.099290
+2025-05-06 14:12:25,100 - INFO - [78] Published to topic: test/custom/topic
+2025-05-06 14:12:25,100 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.8, "timestamp": "2025-05-06T14:12:25.100710"}
+2025-05-06 14:12:25,100 - INFO - Message 78 published successfully
+2025-05-06 14:12:25,120 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:25,120 - INFO -   test_device status: active, value: 25.8, timestamp: 2025-05-06T14:12:25.100710
+2025-05-06 14:12:27,115 - INFO - Message 79 published successfully
+2025-05-06 14:12:27,117 - INFO - [79] Published to topic: test/custom/topic
+2025-05-06 14:12:27,117 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.03, "timestamp": "2025-05-06T14:12:27.115986"}
+2025-05-06 14:12:27,127 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:27,127 - INFO -   test_device status: active, value: 27.03, timestamp: 2025-05-06T14:12:27.115986
+2025-05-06 14:12:27,127 - INFO - Committed 5 messages to database
+2025-05-06 14:12:29,117 - INFO - [80] Published to topic: test/custom/topic
+2025-05-06 14:12:29,117 - INFO - Message 80 published successfully
+2025-05-06 14:12:29,117 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.53, "timestamp": "2025-05-06T14:12:29.117364"}
+2025-05-06 14:12:29,126 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:29,126 - INFO -   test_device status: active, value: 28.53, timestamp: 2025-05-06T14:12:29.117364
+2025-05-06 14:12:31,129 - INFO - [81] Published to topic: test/custom/topic
+2025-05-06 14:12:31,129 - INFO - Message 81 published successfully
+2025-05-06 14:12:31,129 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.64, "timestamp": "2025-05-06T14:12:31.129125"}
+2025-05-06 14:12:31,147 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:31,147 - INFO -   test_device status: active, value: 24.64, timestamp: 2025-05-06T14:12:31.129125
+2025-05-06 14:12:33,137 - INFO - [82] Published to topic: test/custom/topic
+2025-05-06 14:12:33,137 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.22, "timestamp": "2025-05-06T14:12:33.137050"}
+2025-05-06 14:12:33,137 - INFO - Message 82 published successfully
+2025-05-06 14:12:33,149 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:33,149 - INFO -   test_device status: active, value: 25.22, timestamp: 2025-05-06T14:12:33.137050
+2025-05-06 14:12:35,142 - INFO - [83] Published to topic: test/custom/topic
+2025-05-06 14:12:35,142 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.85, "timestamp": "2025-05-06T14:12:35.142602"}
+2025-05-06 14:12:35,142 - INFO - Message 83 published successfully
+2025-05-06 14:12:35,155 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:35,155 - INFO -   test_device status: active, value: 25.85, timestamp: 2025-05-06T14:12:35.142602
+2025-05-06 14:12:37,146 - INFO - [84] Published to topic: test/custom/topic
+2025-05-06 14:12:37,146 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.58, "timestamp": "2025-05-06T14:12:37.146823"}
+2025-05-06 14:12:37,146 - INFO - Message 84 published successfully
+2025-05-06 14:12:37,159 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:37,159 - INFO -   test_device status: active, value: 25.58, timestamp: 2025-05-06T14:12:37.146823
+2025-05-06 14:12:37,159 - INFO - Committed 5 messages to database
+2025-05-06 14:12:39,155 - INFO - [85] Published to topic: test/custom/topic
+2025-05-06 14:12:39,155 - INFO - Message 85 published successfully
+2025-05-06 14:12:39,155 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.48, "timestamp": "2025-05-06T14:12:39.155587"}
+2025-05-06 14:12:39,166 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:39,166 - INFO -   test_device status: active, value: 21.48, timestamp: 2025-05-06T14:12:39.155587
+2025-05-06 14:12:41,170 - INFO - Message 86 published successfully
+2025-05-06 14:12:41,170 - INFO - [86] Published to topic: test/custom/topic
+2025-05-06 14:12:41,170 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.27, "timestamp": "2025-05-06T14:12:41.169236"}
+2025-05-06 14:12:41,182 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:41,182 - INFO -   test_device status: active, value: 28.27, timestamp: 2025-05-06T14:12:41.169236
+2025-05-06 14:12:43,173 - INFO - [87] Published to topic: test/custom/topic
+2025-05-06 14:12:43,173 - INFO - Message 87 published successfully
+2025-05-06 14:12:43,173 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.72, "timestamp": "2025-05-06T14:12:43.173216"}
+2025-05-06 14:12:43,182 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:43,182 - INFO -   test_device status: active, value: 23.72, timestamp: 2025-05-06T14:12:43.173216
+2025-05-06 14:12:45,178 - INFO - [88] Published to topic: test/custom/topic
+2025-05-06 14:12:45,178 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.33, "timestamp": "2025-05-06T14:12:45.178138"}
+2025-05-06 14:12:45,178 - INFO - Message 88 published successfully
+2025-05-06 14:12:45,187 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:45,188 - INFO -   test_device status: active, value: 22.33, timestamp: 2025-05-06T14:12:45.178138
+2025-05-06 14:12:47,180 - INFO - [89] Published to topic: test/custom/topic
+2025-05-06 14:12:47,180 - INFO - Message 89 published successfully
+2025-05-06 14:12:47,180 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.54, "timestamp": "2025-05-06T14:12:47.179352"}
+2025-05-06 14:12:47,195 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:47,195 - INFO -   test_device status: active, value: 27.54, timestamp: 2025-05-06T14:12:47.179352
+2025-05-06 14:12:47,195 - INFO - Committed 5 messages to database
+2025-05-06 14:12:49,193 - INFO - [90] Published to topic: test/custom/topic
+2025-05-06 14:12:49,193 - INFO - Message 90 published successfully
+2025-05-06 14:12:49,193 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.58, "timestamp": "2025-05-06T14:12:49.193255"}
+2025-05-06 14:12:49,204 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:49,204 - INFO -   test_device status: active, value: 21.58, timestamp: 2025-05-06T14:12:49.193255
+2025-05-06 14:12:51,198 - INFO - [91] Published to topic: test/custom/topic
+2025-05-06 14:12:51,198 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.01, "timestamp": "2025-05-06T14:12:51.198700"}
+2025-05-06 14:12:51,198 - INFO - Message 91 published successfully
+2025-05-06 14:12:51,210 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:51,210 - INFO -   test_device status: active, value: 26.01, timestamp: 2025-05-06T14:12:51.198700
+2025-05-06 14:12:53,209 - INFO - [92] Published to topic: test/custom/topic
+2025-05-06 14:12:53,209 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.25, "timestamp": "2025-05-06T14:12:53.209003"}
+2025-05-06 14:12:53,210 - INFO - Message 92 published successfully
+2025-05-06 14:12:53,226 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:53,226 - INFO -   test_device status: active, value: 23.25, timestamp: 2025-05-06T14:12:53.209003
+2025-05-06 14:12:55,213 - INFO - [93] Published to topic: test/custom/topic
+2025-05-06 14:12:55,213 - INFO - Message 93 published successfully
+2025-05-06 14:12:55,213 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.75, "timestamp": "2025-05-06T14:12:55.213769"}
+2025-05-06 14:12:55,238 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:55,238 - INFO -   test_device status: active, value: 29.75, timestamp: 2025-05-06T14:12:55.213769
+2025-05-06 14:12:57,220 - INFO - [94] Published to topic: test/custom/topic
+2025-05-06 14:12:57,221 - INFO - Message 94 published successfully
+2025-05-06 14:12:57,221 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.14, "timestamp": "2025-05-06T14:12:57.220692"}
+2025-05-06 14:12:57,237 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:57,237 - INFO -   test_device status: active, value: 22.14, timestamp: 2025-05-06T14:12:57.220692
+2025-05-06 14:12:57,237 - INFO - Committed 5 messages to database
+2025-05-06 14:12:59,224 - INFO - [95] Published to topic: test/custom/topic
+2025-05-06 14:12:59,224 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.45, "timestamp": "2025-05-06T14:12:59.224944"}
+2025-05-06 14:12:59,224 - INFO - Message 95 published successfully
+2025-05-06 14:12:59,234 - INFO - Received message on test/custom/topic
+2025-05-06 14:12:59,234 - INFO -   test_device status: active, value: 21.45, timestamp: 2025-05-06T14:12:59.224944
+2025-05-06 14:13:01,234 - INFO - [96] Published to topic: test/custom/topic
+2025-05-06 14:13:01,235 - INFO - Message 96 published successfully
+2025-05-06 14:13:01,235 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.43, "timestamp": "2025-05-06T14:13:01.233955"}
+2025-05-06 14:13:01,258 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:01,258 - INFO -   test_device status: active, value: 23.43, timestamp: 2025-05-06T14:13:01.233955
+2025-05-06 14:13:03,248 - INFO - [97] Published to topic: test/custom/topic
+2025-05-06 14:13:03,249 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.08, "timestamp": "2025-05-06T14:13:03.248321"}
+2025-05-06 14:13:03,249 - INFO - Message 97 published successfully
+2025-05-06 14:13:03,269 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:03,269 - INFO -   test_device status: active, value: 26.08, timestamp: 2025-05-06T14:13:03.248321
+2025-05-06 14:13:05,270 - INFO - [98] Published to topic: test/custom/topic
+2025-05-06 14:13:05,270 - INFO - Message 98 published successfully
+2025-05-06 14:13:05,270 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.05, "timestamp": "2025-05-06T14:13:05.270062"}
+2025-05-06 14:13:05,293 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:05,293 - INFO -   test_device status: active, value: 25.05, timestamp: 2025-05-06T14:13:05.270062
+2025-05-06 14:13:07,276 - INFO - [99] Published to topic: test/custom/topic
+2025-05-06 14:13:07,276 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.34, "timestamp": "2025-05-06T14:13:07.276448"}
+2025-05-06 14:13:07,276 - INFO - Message 99 published successfully
+2025-05-06 14:13:07,291 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:07,291 - INFO -   test_device status: active, value: 22.34, timestamp: 2025-05-06T14:13:07.276448
+2025-05-06 14:13:07,291 - INFO - Committed 5 messages to database
+2025-05-06 14:13:09,291 - INFO - Message 100 published successfully
+2025-05-06 14:13:09,291 - INFO - [100] Published to topic: test/custom/topic
+2025-05-06 14:13:09,291 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.44, "timestamp": "2025-05-06T14:13:09.291962"}
+2025-05-06 14:13:09,301 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:09,301 - INFO -   test_device status: active, value: 27.44, timestamp: 2025-05-06T14:13:09.291962
+2025-05-06 14:13:11,304 - INFO - [101] Published to topic: test/custom/topic
+2025-05-06 14:13:11,304 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.14, "timestamp": "2025-05-06T14:13:11.303750"}
+2025-05-06 14:13:11,304 - INFO - Message 101 published successfully
+2025-05-06 14:13:11,323 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:11,323 - INFO -   test_device status: active, value: 24.14, timestamp: 2025-05-06T14:13:11.303750
+2025-05-06 14:13:12,984 - INFO -  Connected to MQTT broker at localhost:1883
+2025-05-06 14:13:12,984 - INFO -  Subscribed to topic: test/custom/topic
+2025-05-06 14:13:13,312 - INFO - [102] Published to topic: test/custom/topic
+2025-05-06 14:13:13,313 - INFO - Message 102 published successfully
+2025-05-06 14:13:13,313 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.43, "timestamp": "2025-05-06T14:13:13.312803"}
+2025-05-06 14:13:13,324 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:13,324 - INFO -   test_device status: active, value: 28.43, timestamp: 2025-05-06T14:13:13.312803
+2025-05-06 14:13:15,320 - INFO - [103] Published to topic: test/custom/topic
+2025-05-06 14:13:15,321 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.2, "timestamp": "2025-05-06T14:13:15.320641"}
+2025-05-06 14:13:15,322 - INFO - Message 103 published successfully
+2025-05-06 14:13:15,326 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:15,326 - INFO -   test_device status: active, value: 29.2, timestamp: 2025-05-06T14:13:15.320641
+2025-05-06 14:13:17,325 - INFO - [104] Published to topic: test/custom/topic
+2025-05-06 14:13:17,325 - INFO - Message 104 published successfully
+2025-05-06 14:13:17,325 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.14, "timestamp": "2025-05-06T14:13:17.325384"}
+2025-05-06 14:13:17,325 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:17,325 - INFO -   test_device status: active, value: 25.14, timestamp: 2025-05-06T14:13:17.325384
+2025-05-06 14:13:19,334 - INFO - [105] Published to topic: test/custom/topic
+2025-05-06 14:13:19,334 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.58, "timestamp": "2025-05-06T14:13:19.333910"}
+2025-05-06 14:13:19,334 - INFO - Message 105 published successfully
+2025-05-06 14:13:19,351 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:19,351 - INFO -   test_device status: active, value: 21.58, timestamp: 2025-05-06T14:13:19.333910
+2025-05-06 14:13:21,335 - INFO - [106] Published to topic: test/custom/topic
+2025-05-06 14:13:21,335 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.32, "timestamp": "2025-05-06T14:13:21.335095"}
+2025-05-06 14:13:21,335 - INFO - Message 106 published successfully
+2025-05-06 14:13:21,335 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:21,335 - INFO -   test_device status: active, value: 21.32, timestamp: 2025-05-06T14:13:21.335095
+2025-05-06 14:13:21,335 - INFO - Committed 5 messages to database
+2025-05-06 14:13:23,335 - INFO - [107] Published to topic: test/custom/topic
+2025-05-06 14:13:23,335 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.7, "timestamp": "2025-05-06T14:13:23.335322"}
+2025-05-06 14:13:23,335 - INFO - Message 107 published successfully
+2025-05-06 14:13:23,335 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:23,335 - INFO -   test_device status: active, value: 25.7, timestamp: 2025-05-06T14:13:23.335322
+2025-05-06 14:13:25,341 - INFO - [108] Published to topic: test/custom/topic
+2025-05-06 14:13:25,341 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.6, "timestamp": "2025-05-06T14:13:25.341425"}
+2025-05-06 14:13:25,341 - INFO - Message 108 published successfully
+2025-05-06 14:13:25,341 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:25,341 - INFO -   test_device status: active, value: 20.6, timestamp: 2025-05-06T14:13:25.341425
+2025-05-06 14:13:27,342 - INFO - [109] Published to topic: test/custom/topic
+2025-05-06 14:13:27,342 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.31, "timestamp": "2025-05-06T14:13:27.342299"}
+2025-05-06 14:13:27,343 - INFO - Message 109 published successfully
+2025-05-06 14:13:27,358 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:27,359 - INFO -   test_device status: active, value: 26.31, timestamp: 2025-05-06T14:13:27.342299
+2025-05-06 14:13:29,351 - INFO - [110] Published to topic: test/custom/topic
+2025-05-06 14:13:29,351 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.13, "timestamp": "2025-05-06T14:13:29.351703"}
+2025-05-06 14:13:29,351 - INFO - Message 110 published successfully
+2025-05-06 14:13:29,367 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:29,367 - INFO -   test_device status: active, value: 24.13, timestamp: 2025-05-06T14:13:29.351703
+2025-05-06 14:13:31,363 - INFO - [111] Published to topic: test/custom/topic
+2025-05-06 14:13:31,363 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.97, "timestamp": "2025-05-06T14:13:31.363695"}
+2025-05-06 14:13:31,363 - INFO - Message 111 published successfully
+2025-05-06 14:13:31,367 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:31,367 - INFO -   test_device status: active, value: 23.97, timestamp: 2025-05-06T14:13:31.363695
+2025-05-06 14:13:31,367 - INFO - Committed 5 messages to database
+2025-05-06 14:13:33,376 - INFO - [112] Published to topic: test/custom/topic
+2025-05-06 14:13:33,376 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 26.54, "timestamp": "2025-05-06T14:13:33.376429"}
+2025-05-06 14:13:33,376 - INFO - Message 112 published successfully
+2025-05-06 14:13:33,376 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:33,376 - INFO -   test_device status: active, value: 26.54, timestamp: 2025-05-06T14:13:33.376429
+2025-05-06 14:13:35,386 - INFO - [113] Published to topic: test/custom/topic
+2025-05-06 14:13:35,386 - INFO - Message 113 published successfully
+2025-05-06 14:13:35,387 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.79, "timestamp": "2025-05-06T14:13:35.386725"}
+2025-05-06 14:13:35,391 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:35,391 - INFO -   test_device status: active, value: 29.79, timestamp: 2025-05-06T14:13:35.386725
+2025-05-06 14:13:37,398 - INFO - [114] Published to topic: test/custom/topic
+2025-05-06 14:13:37,398 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.26, "timestamp": "2025-05-06T14:13:37.398711"}
+2025-05-06 14:13:37,399 - INFO - Message 114 published successfully
+2025-05-06 14:13:37,406 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:37,406 - INFO -   test_device status: active, value: 22.26, timestamp: 2025-05-06T14:13:37.398711
+2025-05-06 14:13:39,403 - INFO - [115] Published to topic: test/custom/topic
+2025-05-06 14:13:39,403 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.91, "timestamp": "2025-05-06T14:13:39.403128"}
+2025-05-06 14:13:39,403 - INFO - Message 115 published successfully
+2025-05-06 14:13:39,403 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:39,403 - INFO -   test_device status: active, value: 21.91, timestamp: 2025-05-06T14:13:39.403128
+2025-05-06 14:13:41,406 - INFO - [116] Published to topic: test/custom/topic
+2025-05-06 14:13:41,406 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 22.41, "timestamp": "2025-05-06T14:13:41.406729"}
+2025-05-06 14:13:41,406 - INFO - Message 116 published successfully
+2025-05-06 14:13:41,406 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:41,406 - INFO -   test_device status: active, value: 22.41, timestamp: 2025-05-06T14:13:41.406729
+2025-05-06 14:13:41,406 - INFO - Committed 5 messages to database
+2025-05-06 14:13:43,408 - INFO - [117] Published to topic: test/custom/topic
+2025-05-06 14:13:43,408 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 24.29, "timestamp": "2025-05-06T14:13:43.408404"}
+2025-05-06 14:13:43,408 - INFO - Message 117 published successfully
+2025-05-06 14:13:43,408 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:43,408 - INFO -   test_device status: active, value: 24.29, timestamp: 2025-05-06T14:13:43.408404
+2025-05-06 14:13:45,410 - INFO - [118] Published to topic: test/custom/topic
+2025-05-06 14:13:45,410 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.03, "timestamp": "2025-05-06T14:13:45.409272"}
+2025-05-06 14:13:45,410 - INFO - Message 118 published successfully
+2025-05-06 14:13:45,410 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:45,410 - INFO -   test_device status: active, value: 29.03, timestamp: 2025-05-06T14:13:45.409272
+2025-05-06 14:13:47,419 - INFO - [119] Published to topic: test/custom/topic
+2025-05-06 14:13:47,419 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 28.16, "timestamp": "2025-05-06T14:13:47.419050"}
+2025-05-06 14:13:47,419 - INFO - Message 119 published successfully
+2025-05-06 14:13:47,419 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:47,419 - INFO -   test_device status: active, value: 28.16, timestamp: 2025-05-06T14:13:47.419050
+2025-05-06 14:13:49,421 - INFO - [120] Published to topic: test/custom/topic
+2025-05-06 14:13:49,421 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 21.63, "timestamp": "2025-05-06T14:13:49.421984"}
+2025-05-06 14:13:49,421 - INFO - Message 120 published successfully
+2025-05-06 14:13:49,424 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:49,424 - INFO -   test_device status: active, value: 21.63, timestamp: 2025-05-06T14:13:49.421984
+2025-05-06 14:13:51,428 - INFO - [121] Published to topic: test/custom/topic
+2025-05-06 14:13:51,428 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 29.57, "timestamp": "2025-05-06T14:13:51.428975"}
+2025-05-06 14:13:51,428 - INFO - Message 121 published successfully
+2025-05-06 14:13:51,432 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:51,432 - INFO -   test_device status: active, value: 29.57, timestamp: 2025-05-06T14:13:51.428975
+2025-05-06 14:13:51,432 - INFO - Committed 5 messages to database
+2025-05-06 14:13:53,433 - INFO - [122] Published to topic: test/custom/topic
+2025-05-06 14:13:53,433 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.29, "timestamp": "2025-05-06T14:13:53.433943"}
+2025-05-06 14:13:53,435 - INFO - Message 122 published successfully
+2025-05-06 14:13:53,443 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:53,443 - INFO -   test_device status: active, value: 25.29, timestamp: 2025-05-06T14:13:53.433943
+2025-05-06 14:13:55,439 - INFO - [123] Published to topic: test/custom/topic
+2025-05-06 14:13:55,439 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.39, "timestamp": "2025-05-06T14:13:55.439809"}
+2025-05-06 14:13:55,440 - INFO - Message 123 published successfully
+2025-05-06 14:13:55,441 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:55,441 - INFO -   test_device status: active, value: 23.39, timestamp: 2025-05-06T14:13:55.439809
+2025-05-06 14:13:57,453 - INFO - [124] Published to topic: test/custom/topic
+2025-05-06 14:13:57,453 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 23.53, "timestamp": "2025-05-06T14:13:57.453211"}
+2025-05-06 14:13:57,453 - INFO - Message 124 published successfully
+2025-05-06 14:13:57,453 - INFO - Received message on test/custom/topic
+2025-05-06 14:13:57,453 - INFO -   test_device status: active, value: 23.53, timestamp: 2025-05-06T14:13:57.453211
+2025-05-06 14:13:59,464 - INFO - [125] Published to topic: test/custom/topic
+2025-05-06 14:13:59,464 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 20.8, "timestamp": "2025-05-06T14:13:59.462945"}
+2025-05-06 14:13:59,464 - INFO - Message 125 published successfully
+2025-05-06 14:14:01,465 - INFO - [126] Published to topic: test/custom/topic
+2025-05-06 14:14:01,465 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 27.27, "timestamp": "2025-05-06T14:14:01.465487"}
+2025-05-06 14:14:01,465 - INFO - Message 126 published successfully
+2025-05-06 14:14:03,470 - INFO - [127] Published to topic: test/custom/topic
+2025-05-06 14:14:03,470 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.34, "timestamp": "2025-05-06T14:14:03.470208"}
+2025-05-06 14:14:03,470 - INFO - Message 127 published successfully
+2025-05-06 14:14:05,470 - INFO - [128] Published to topic: test/custom/topic
+2025-05-06 14:14:05,470 - INFO -     Payload: {"device": "test_device", "status": "active", "value": 25.06, "timestamp": "2025-05-06T14:14:05.470307"}
+2025-05-06 14:14:05,470 - INFO - Message 128 published successfully
+2025-05-06 14:14:06,558 - INFO - Received termination signal. Shutting down...
+2025-05-06 14:14:07,476 - INFO - Stopping MQTT producer...
+2025-05-06 14:14:08,486 - INFO - i Disconnected from MQTT broker
+2025-05-06 14:14:08,487 - INFO - MQTT producer stopped
